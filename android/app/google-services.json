@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "180053441721",
+    "project_id": "jumppoint-oapi",
+    "storage_bucket": "jumppoint-oapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180053441721:android:3df6e3cf7d70dddd102f68",
+        "android_client_info": {
+          "package_name": "com.example.jumppoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180053441721-ck03gq0238om3rhln6r9sf30hm8n2g21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jumppoint",
+            "certificate_hash": "7c962ea5b08e521a8af72dada5037392650a509a"
+          }
+        },
+        {
+          "client_id": "180053441721-8p07kotrsi9joncq9164uang9erqgvgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACnADXpRnrZ_pxnb_hyMGAJUkoY10viOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180053441721-8p07kotrsi9joncq9164uang9erqgvgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
